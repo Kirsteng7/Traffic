@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AniketaR Website ",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -40,7 +40,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "5.6.3",
     "imageResize": true
   },
@@ -566,7 +566,7 @@
     "page1.html": {
       "settings": {
         "title": "Traffic&nbsp;",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
